@@ -1,6 +1,5 @@
 # Chess
- 
- > Authors: \<[Yishao Wang](https://github.com/caKuma)\>, \<[Ryan Park](https://github.com/rpark028)\>, \<[akuan004](https://github.com/akuan004)\>, \<[jintei002](https://github.com/jintei002)\>
+
 ## Project Description
  > * We would like to make a chess game and to do that we would use c++, github, valgrind and googletest. The input of the game would be mouse and the output would be a gui of the chess board. 
  > 
